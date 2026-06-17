@@ -1,0 +1,1 @@
+.env\nnode_modules/\nlogs/\n.DS_Store\n*.swp\n*.swo\n*~\n.vscode/\n.idea/\ndist/\nbuild/\n.cache/
